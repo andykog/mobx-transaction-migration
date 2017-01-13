@@ -1,0 +1,15 @@
+{
+  "name": "mobx-transaction-migration",
+  "description": "Replaces transaction with runInAction",
+  "version": "0.0.3",
+  "bin": "bin.js",
+  "author": "Andy Kogut",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andykog/mobx-transaction-migration.git"
+  },
+  "dependencies": {
+    "jscodeshift": "^0.3.30"
+  }
+}
